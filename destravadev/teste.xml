@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+    <item>
+        <Data>09/07</Data>
+        <Temperatura>31°</Temperatura>
+        <Condição>Algumas nuvens, depois soalheiro</Condição>
+    </item>
+    <item>
+        <Data>10/07</Data>
+        <Temperatura>30°</Temperatura>
+        <Condição>Possibilidade de aguaceiros</Condição>
+    </item>
+    <item>
+        <Data>11/07</Data>
+        <Temperatura>30°</Temperatura>
+        <Condição>Nublado seguido de céu limpo</Condição>
+    </item>
+    <item>
+        <Data>12/07</Data>
+        <Temperatura>30°</Temperatura>
+        <Condição>Maioritariamente nublado</Condição>
+    </item>
+    <item>
+        <Data>13/07</Data>
+        <Temperatura>31°</Temperatura>
+        <Condição>Ventoso</Condição>
+    </item>
+    <item>
+        <Data>14/07</Data>
+        <Temperatura>31°</Temperatura>
+        <Condição>Soalheiro</Condição>
+    </item>
+    <item>
+        <Data>15/07</Data>
+        <Temperatura>31°</Temperatura>
+        <Condição>Muito sol</Condição>
+    </item>
+    <item>
+        <Data>16/07</Data>
+        <Temperatura>30°</Temperatura>
+        <Condição>Soalheiro</Condição>
+    </item>
+    <item>
+        <Data>17/07</Data>
+        <Temperatura>30°</Temperatura>
+        <Condição>Maioritariamente com sol</Condição>
+    </item>
+    <item>
+        <Data>18/07</Data>
+        <Temperatura>30°</Temperatura>
+        <Condição>Soalheiro</Condição>
+    </item>
+    <item>
+        <Data>19/07</Data>
+        <Temperatura>31°</Temperatura>
+        <Condição>Chuva ligeira</Condição>
+    </item>
+    <item>
+        <Data>20/07</Data>
+        <Temperatura>29°</Temperatura>
+        <Condição>Maioritariamente com sol</Condição>
+    </item>
+    <item>
+        <Data>21/07</Data>
+        <Temperatura>30°</Temperatura>
+        <Condição>Maioritariamente com sol</Condição>
+    </item>
+    <item>
+        <Data>22/07</Data>
+        <Temperatura>30°</Temperatura>
+        <Condição>Maioritariamente com sol</Condição>
+    </item>
+    <item>
+        <Data>23/07</Data>
+        <Temperatura>30°</Temperatura>
+        <Condição>Parcialmente soalheiro</Condição>
+    </item>
+    <item>
+        <Data>24/07</Data>
+        <Temperatura>30°</Temperatura>
+        <Condição>Muito sol</Condição>
+    </item>
+    <item>
+        <Data>25/07</Data>
+        <Temperatura>30°</Temperatura>
+        <Condição>Maioritariamente com sol</Condição>
+    </item>
+    <item>
+        <Data>26/07</Data>
+        <Temperatura>30°</Temperatura>
+        <Condição>Maioritariamente com sol</Condição>
+    </item>
+    <item>
+        <Data>27/07</Data>
+        <Temperatura>30°</Temperatura>
+        <Condição>Nuvens e sol</Condição>
+    </item>
+    <item>
+        <Data>28/07</Data>
+        <Temperatura>30°</Temperatura>
+        <Condição>Ventoso</Condição>
+    </item>
+    <item>
+        <Data>29/07</Data>
+        <Temperatura>30°</Temperatura>
+        <Condição>Soalheiro a parcialmente nublado</Condição>
+    </item>
+    <item>
+        <Data>30/07</Data>
+        <Temperatura>30°</Temperatura>
+        <Condição>Soalheiro a parcialmente nublado</Condição>
+    </item>
+    <item>
+        <Data>31/07</Data>
+        <Temperatura>29°</Temperatura>
+        <Condição>Maioritariamente com sol</Condição>
+    </item>
+    <item>
+        <Data>01/08</Data>
+        <Temperatura>29°</Temperatura>
+        <Condição>Maioritariamente com sol</Condição>
+    </item>
+    <item>
+        <Data>02/08</Data>
+        <Temperatura>30°</Temperatura>
+        <Condição>Parcialmente soalheiro</Condição>
+    </item>
+    <item>
+        <Data>03/08</Data>
+        <Temperatura>30°</Temperatura>
+        <Condição>Parcialmente soalheiro</Condição>
+    </item>
+    <item>
+        <Data>04/08</Data>
+        <Temperatura>31°</Temperatura>
+        <Condição>Parcialmente soalheiro</Condição>
+    </item>
+    <item>
+        <Data>05/08</Data>
+        <Temperatura>29°</Temperatura>
+        <Condição>Soalheiro a parcialmente nublado</Condição>
+    </item>
+    <item>
+        <Data>06/08</Data>
+        <Temperatura>31°</Temperatura>
+        <Condição>Possibilidade de aguaceiros ou trovoadas</Condição>
+    </item>
+    <item>
+        <Data>07/08</Data>
+        <Temperatura>30°</Temperatura>
+        <Condição>Um aguaceiro</Condição>
+    </item>
+    <item>
+        <Data>08/08</Data>
+        <Temperatura>30°</Temperatura>
+        <Condição>Parcialmente soalheiro</Condição>
+    </item>
+    <item>
+        <Data>09/08</Data>
+        <Temperatura>31°</Temperatura>
+        <Condição>Maioritariamente com sol</Condição>
+    </item>
+    <item>
+        <Data>10/08</Data>
+        <Temperatura>31°</Temperatura>
+        <Condição>Ventoso</Condição>
+    </item>
+    <item>
+        <Data>11/08</Data>
+        <Temperatura>30°</Temperatura>
+        <Condição>Maioritariamente com sol</Condição>
+    </item>
+    <item>
+        <Data>12/08</Data>
+        <Temperatura>31°</Temperatura>
+        <Condição>Maioritariamente com sol</Condição>
+    </item>
+    <item>
+        <Data>13/08</Data>
+        <Temperatura>30°</Temperatura>
+        <Condição>Parcialmente soalheiro</Condição>
+    </item>
+    <item>
+        <Data>14/08</Data>
+        <Temperatura>31°</Temperatura>
+        <Condição>Maioritariamente com sol</Condição>
+    </item>
+    <item>
+        <Data>15/08</Data>
+        <Temperatura>31°</Temperatura>
+        <Condição>Soalheiro</Condição>
+    </item>
+    <item>
+        <Data>16/08</Data>
+        <Temperatura>31°</Temperatura>
+        <Condição>Soalheiro</Condição>
+    </item>
+    <item>
+        <Data>17/08</Data>
+        <Temperatura>30°</Temperatura>
+        <Condição>Muito sol</Condição>
+    </item>
+    <item>
+        <Data>18/08</Data>
+        <Temperatura>31°</Temperatura>
+        <Condição>Parcialmente soalheiro</Condição>
+    </item>
+    <item>
+        <Data>19/08</Data>
+        <Temperatura>30°</Temperatura>
+        <Condição>Ventoso</Condição>
+    </item>
+    <item>
+        <Data>20/08</Data>
+        <Temperatura>30°</Temperatura>
+        <Condição>Maioritariamente com sol</Condição>
+    </item>
+    <item>
+        <Data>21/08</Data>
+        <Temperatura>30°</Temperatura>
+        <Condição>Parcialmente soalheiro</Condição>
+    </item>
+    <item>
+        <Data>22/08</Data>
+        <Temperatura>30°</Temperatura>
+        <Condição>Maioritariamente com sol</Condição>
+    </item>
+</items>
